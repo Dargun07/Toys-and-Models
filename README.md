@@ -32,3 +32,19 @@ Vue d’ensemble du contexte, présentation de l’équipe et des outils utilis�
 Démonstration de votre tableau de bord, et interprétation des KPI métiers.
 Difficultés rencontrées et perspectives d’évolution.
 N’hésitez pas à créer des KPI supplémentaires !
+
+![FINANCE](https://github.com/user-attachments/assets/0e70bcbb-93ea-485a-9921-1ba71ee1e958)
+
+![LOGISTIQUE](https://github.com/user-attachments/assets/cb2c8006-a4de-4c12-a675-222b4fdc573f)
+
+![RESSOURCES HUMAINES](https://github.com/user-attachments/assets/6b1ff8e6-7520-483b-9a42-77717fbf54a6)
+
+![Ventes](https://github.com/user-attachments/assets/082fc77f-abf6-4797-8673-41ab17609d73)
+
+
+
+
+
+
+
+
